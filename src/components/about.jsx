@@ -46,11 +46,11 @@ export const About = (props) => {
               <Grid item xs={12} sm={12} md={6}>  
               
 
-        <Card className={classes.root} variant="outlined" style={{ background:"#133d47",borderRadius:"8px" }}>
+        <Card className={classes.root} variant="elevation" style={{ background:"transparent", borderRadius:"8px" }}>
               <CardContent>
                       <div>                                                                                                   
 
-                        <ReactPlayer width="100%" style={{ borderRadius:"10px",overflow:"hidden" }} className={['img-responsive',"react-player"]}  controls url='https://www.youtube.com/embed/7gjgUEc4V48?showinfo=0&enablejsapi=1&origin=http://localhost:3000' />
+                        <ReactPlayer width="100%" style={{ borderRadius:"10px", overflow:"hidden" }} className={['img-responsive',"react-player"]}  controls url='https://www.youtube.com/embed/7gjgUEc4V48?showinfo=0&enablejsapi=1&origin=http://localhost:3000' />
                       </div>                                                                                                                                    
               </CardContent>
         </Card>
