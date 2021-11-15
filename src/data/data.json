@@ -1,0 +1,157 @@
+{
+    "Header": {    
+        "title": "Aspire Technologies"
+
+    },
+    "About": {
+        "paragraph": "A privately held company with its operations spanning Saudi Arabia,United Arab Emirates, Canada, Bahrain and with Offshore Development Centre in India; specializes in Technology Consulting targeted at the Asia, Middle East & North American market with predominant understanding and proliferation in sectors like Banking & Finance, Insurance, Telecom, Manufacturing & Industries, Retail, Energy & Utilities etc. Aspire Technologies was established in late 2012, with an aim to grow; started its operations just like any other player in the world with a sole employee and is able to scale up to 75+ and counting strongly till date.",
+        "Why": [
+            "We help leading Banking and Financial Institutions in the Middle East on their various requirements with industry-demanding Tools from Microsoft, IBM, Oracle, HP among others.",
+            "Our PMP Certified consultants run project management as smooth as it can be without compromising process and quality.",
+            "One of the foremost areas of expertise for Exeder. We have exceptional Testing Consultants occupying a major chunk of a leading banking institution in the Middle East."
+   ],
+        "Why2": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-file-code-o",
+            "name": "Application Development",
+            "text": "Design, Coding & Architecture ,Business & GAP Analysis ,Onsite / Offshore Software Development,Release Management ."
+        },
+        {
+            "icon": "fa fa-cloud-upload",
+            "name": "Customization & Implementation",
+            "text": " Banking Applications Implementation,Data Migration using tools and best practices. "
+        },
+        {
+            "icon": "fa fa-envelope-o",
+            "name": "Support & Maintenance",
+            "text": "Support for Applications , Re-architecting of legacy apps ,Offshore / Onsite Support ,Data Management."
+        },
+        {
+            "icon": "fa fa-cog",
+            "name": "Middleware Services",
+            "text": "EAI Development , EAI through Web-Services  , Integration to Enable STP ."
+        },
+        {
+            "icon": "fa fa-user",
+            "name": "Quality Engineering & Assurance",
+            "text": "Functional Testing ,Performance Testing ,QC to ALM Testing ,Agile Testing ,Test Data Management,Blockchain Testing"
+        },
+        {
+            "icon": "fa fa-calendar",
+            "name": "Project & Product Management",
+            "text": "project management methodologies without compromising time and budget. And  finding the best way in representing the smallest of the smallest information for our product "
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Industries": [
+
+        {
+            "icon": "fa fa-user-md",
+            "name": "Healthcare and Education",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-link",
+            "name": "Telecommunications",
+            "text": ""
+        }
+       
+,
+        {
+            "icon": "fa fa-money",
+            "name": "Banking & Finance, Tax & Accounting",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-shield",
+            "name": "Insurance",
+            "text": ""
+        },
+      
+        {
+            "icon": "fa  fa-bolt",
+            "name": "Energy, and Oil & Gas",
+            "text": ""
+        },
+        {
+            "icon": "fa  fa-building",
+            "name": "Manufacturing & Industries",
+            "text": ""
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Retail & Utilities",
+            "text": ""
+        }
+        
+    
+    ],
+
+    "Contact": {
+        "address": "4321 RIYADH , Saudi Arabia, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@aspiretechno.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
